@@ -1,0 +1,38 @@
+{
+  "firstName": "Jimmy",
+  "lastName": "kieni",
+  "email": {
+    "office": "jkieni@workemail.com",
+    "personal": "jimmy.kieni@gmail.com"
+  },
+  "phone": {
+    "home": {
+      "countryCode": "+1",
+      "number": "923-333-3455"
+    },
+    "office": {
+      "countryCode": "+254",
+      "number": "722-554-665"
+    }
+  },
+  "addresses": [
+    {
+      "type": "home",
+      "city": "Santa Ana",
+      "state": "CA",
+      "country": "USA"
+    },
+    {
+      "type": "office",
+      "city": "Des Moines",
+      "state": "IA",
+      "country": "USA"
+    },
+    {
+      "type": "vacation",
+      "city": "Nairobi",
+      "state": "Other",
+      "country": "KE"
+    }
+  ]
+}
